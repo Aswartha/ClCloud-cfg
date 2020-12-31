@@ -1,0 +1,10 @@
+member:
+ rent:
+  min: 0
+  max: 31
+ price:
+  discount: 3
+vehicle:
+ default:
+  model: cross over-global
+duration: all
